@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Map.py</file>
+        <file>edge.csv</file>
+        <file>node.csv</file>
+    </qresource>
+</RCC>
